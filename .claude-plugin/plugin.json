@@ -1,0 +1,8 @@
+{
+  "name": "milestone",
+  "version": "0.1.0",
+  "description": "며칠 규모 작업을 닻 파일로 고정하고, 워커에게 나눠 맡기고, 다른 회사 모델로 교차 검수해서 닫는다.",
+  "author": { "name": "dasuks" },
+  "repository": "https://github.com/dasuks/milestone-skill",
+  "license": "MIT"
+}

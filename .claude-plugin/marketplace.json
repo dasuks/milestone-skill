@@ -1,0 +1,12 @@
+{
+  "name": "dasuks-milestone",
+  "description": "milestone 스킬 배포용 마켓플레이스",
+  "owner": { "name": "dasuks" },
+  "plugins": [
+    {
+      "name": "milestone",
+      "source": "./",
+      "description": "며칠 규모 작업을 닻 파일로 고정하고, 워커에게 나눠 맡기고, 교차 검수해서 닫는다."
+    }
+  ]
+}
